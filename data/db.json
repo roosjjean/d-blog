@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "title": "Advanced Machine Learning Techniques",
+      "body": "In this blog post, we will delve into advanced machine learning algorithms and explore various techniques used in the field. We will cover topics such as deep learning, natural language processing, and computer vision. Additionally, we will discuss the applications of machine learning in various industries and provide insights into cutting-edge research and developments.",
+      "author": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "title": "Web Development Best Practices",
+      "body": "In this blog post, we will discuss the best practices for web development and cover topics such as responsive design, accessibility, and performance optimization. We will explore the latest web technologies, frameworks, and libraries used in the industry. Additionally, we will provide tips and tricks for building secure and user-friendly web applications.",
+      "author": "Alex Johnson"
+    },
+    {
+      "title": "the latest web technologies",
+      "body": "Performance optimization. We will explore the latest web technologies, frameworks, and libraries used in the industry. Additionally, we will provide tips and tricks for building secure and user-friendly web application... \nand tricks for building secure and user-friendly web application",
+      "author": "ririne",
+      "id": 4
+    },
+    {
+      "title": "Happy to be back",
+      "body": "Compiled successfully!\n\nYou can now view jreact-blog in the browser.\n\n  Local:            http://localhost:3000\n  On Your Network:  http://172.22.50.230:3000\n\nNote that the development build is not optimized.\nTo create a production build, use npm run build.\n\nwebpack compiled successfully",
+      "author": "ririne",
+      "id": 5
+    }
+  ]
+}
