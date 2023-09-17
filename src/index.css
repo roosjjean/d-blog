@@ -113,3 +113,11 @@
   align-items: center;
   flex-direction: column;
 }
+
+.not-found{
+  font-size: 30px;
+}
+
+.not-found a{
+  text-decoration: none;
+}

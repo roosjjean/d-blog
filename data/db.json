@@ -28,12 +28,6 @@
       "title": "Push and Pull Changes:",
       "body": "\nIf you're collaborating with others or using a remote repository, you'll need to push your changes to the remote and pull changes from it. Here are the basic commands:\n\ngit push origin <branch-name>: Push your local changes to the remote repository.\ngit pull origin <branch-name>: Pull changes from the remote repository to your local repository.",
       "author": "Admin",
-      "id": 6
-    },
-    {
-      "title": "Push and Pull Changes:",
-      "body": "\nIf you're collaborating with others or using a remote repository, you'll need to push your changes to the remote and pull changes from it. Here are the basic commands:\n\ngit push origin <branch-name>: Push your local changes to the remote repository.\ngit pull origin <branch-name>: Pull changes from the remote repository to your local repository.",
-      "author": "Admin",
       "id": 7
     }
   ]
