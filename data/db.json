@@ -23,6 +23,24 @@
       "body": "Compiled successfully!\n\nYou can now view jreact-blog in the browser.\n\n  Local:            http://localhost:3000\n  On Your Network:  http://172.22.50.230:3000\n\nNote that the development build is not optimized.\nTo create a production build, use npm run build.\n\nwebpack compiled successfully",
       "author": "ririne",
       "id": 5
+    },
+    {
+      "title": "Push and Pull Changes:",
+      "body": "\nIf you're collaborating with others or using a remote repository, you'll need to push your changes to the remote and pull changes from it. Here are the basic commands:\n\ngit push origin <branch-name>: Push your local changes to the remote repository.\ngit pull origin <branch-name>: Pull changes from the remote repository to your local repository.",
+      "author": "Admin",
+      "id": 6
+    },
+    {
+      "title": "Push and Pull Changes:",
+      "body": "\nIf you're collaborating with others or using a remote repository, you'll need to push your changes to the remote and pull changes from it. Here are the basic commands:\n\ngit push origin <branch-name>: Push your local changes to the remote repository.\ngit pull origin <branch-name>: Pull changes from the remote repository to your local repository.",
+      "author": "Admin",
+      "id": 7
+    },
+    {
+      "title": "OK",
+      "body": "OK",
+      "author": "Mario",
+      "id": 8
     }
   ]
 }
