@@ -1,21 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 /* base styles */
 * {
   margin: 0;
-  font-family: "Quicksand";
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #333;
 }
+
 .navbar {
   padding: 20px;
   display: flex;
   align-items: center;
   max-width: 600px;
   margin: 0 auto;
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #2c3e50;
 }
+
 .navbar h1 {
-  color: #f1356d;
+  color:#e74c3c;
 }
 .navbar .links {
   margin-left: auto;
@@ -26,7 +27,7 @@
   padding: 6px;
 }
 .navbar a:hover {
-  color: #f1356d;
+  color:#e74c3c;
 }
 .content {
   max-width: 600px;
@@ -45,30 +46,37 @@
 }
 .blog-preview h2 {
   font-size: 20px;
-  color: #f1356d;
+  color:#e74c3c;
   margin-bottom: 8px;
 }
 .blog-preview a{
   text-decoration: none;
 }
 
+
 /* blog details page */
 .blog-details h2 {
   font-size: 20px;
-  color: #f1356d;
+  color: #6a6969;
   margin-bottom: 10px;
 }
 .blog-details div {
   margin: 20px 0;
+  border-radius: 5%;
+  
 }
+
 .blog-details button {
-  background: #f1356d;
+  background: #f0451f;
   color: #fff;
   border: 0;
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
 }
+
+
+
 
 /* create new blog form */
 .create {
@@ -82,16 +90,17 @@
 }
 .create h2 {
   font-size: 20px;
-  color: #f1356d;
+  color:#e74c3c;
   margin-bottom: 30px;
 }
 .create input, .create textarea, .create select {
   width: 100%;
   padding: 6px 10px;
   margin: 10px 0;
-  border: 1px solid #ddd;
+  border: 1px solid #2c3e50;
   box-sizing: border-box;
   display: block;
+  border-radius: 5%;
 }
 
 .create textarea{
@@ -99,7 +108,7 @@
 }
 
 .create button {
-  background: #f1356d;
+  background:#e74c3c;
   color: #fff;
   border: 0;
   padding: 8px;
